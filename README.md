@@ -1,10 +1,11 @@
-# 🚀 Project test
+# 🚀 Gen AI Data Profiling for Banking Regulatory Reporting
 
 ## 📌 Table of Contents
 - [Overview](#overview)
 - [Key Features](KeyFeatures)
 - [Demo](#demo)
 - [Inspiration](#inspiration)
+- [Technologies](#technologies)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
 - [Challenges We Faced](#challenges-we-faced)
@@ -18,17 +19,12 @@
 The GenAI-Powered Data Profiling Solution is an AI-driven framework designed to streamline regulatory compliance in banking. By leveraging Generative AI, this solution automates regulatory data validation, ensuring accuracy, efficiency, and compliance.
 
 ## Key Features
-Automated Regulatory Parsing: AI reads and extracts key validation rules from regulatory documents.
-
-Rule Generation: AI dynamically creates profiling and validation rules based on extracted regulations.
-
-Executable Code Generation: AI transforms rules into executable validation scripts.
-
-Automated Validation: Real-time compliance checks against banking data.
-
-Issue Detection & Remediation: AI suggests fixes for flagged discrepancies.
-
-Audit-Ready Reporting: Generates explanations for auditors and compliance teams.
+   - Automated Regulatory Parsing: AI reads and extracts key validation rules from regulatory documents.
+   - Rule Generation: AI dynamically creates profiling and validation rules based on extracted regulations.
+   - Executable Code Generation: AI transforms rules into executable validation scripts.
+   - Automated Validation: Real-time compliance checks against banking data.
+   - Issue Detection & Remediation: AI suggests fixes for flagged discrepancies.
+   - Audit-Ready Reporting: Generates explanations for auditors and compliance teams.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -36,6 +32,11 @@ Audit-Ready Reporting: Generates explanations for auditors and compliance teams.
 🖼️ Screenshots:
 
 ![Screenshot 1](link-to-image)
+
+## Technologies
+- Python (Core processing)
+- GenAI Models (Regulatory text interpretation)
+
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
