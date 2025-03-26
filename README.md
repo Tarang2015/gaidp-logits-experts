@@ -1,7 +1,8 @@
 # 🚀 Project test
 
 ## 📌 Table of Contents
-- [Introduction](#introduction)
+- [Overview](#overview)
+- [Key Features](KeyFeatures)
 - [Demo](#demo)
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
@@ -13,8 +14,21 @@
 
 ---
 
-## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+## 🎯 Overview
+The GenAI-Powered Data Profiling Solution is an AI-driven framework designed to streamline regulatory compliance in banking. By leveraging Generative AI, this solution automates regulatory data validation, ensuring accuracy, efficiency, and compliance.
+
+## Key Features
+Automated Regulatory Parsing: AI reads and extracts key validation rules from regulatory documents.
+
+Rule Generation: AI dynamically creates profiling and validation rules based on extracted regulations.
+
+Executable Code Generation: AI transforms rules into executable validation scripts.
+
+Automated Validation: Real-time compliance checks against banking data.
+
+Issue Detection & Remediation: AI suggests fixes for flagged discrepancies.
+
+Audit-Ready Reporting: Generates explanations for auditors and compliance teams.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
